@@ -13,3 +13,11 @@ https://github.com/Burciu-Alexandru/Sabloane_De_Proiectare/tree/1a7c8c0474db63fe
 
 no content
 
+# Feedback lab5:
+https://github.com/Burciu-Alexandru/Sabloane_De_Proiectare/tree/206bfd0f1e044e833eb40cddb3cb86196f6e0fcd
+
+all good + fix on all 4
+- no visitor
+
+# Proposed grade: 8
+
